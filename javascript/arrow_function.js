@@ -1,6 +1,3 @@
-
-
-
 const person = {
     name: "Mack",
     a: () => {
